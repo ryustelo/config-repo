@@ -1,3 +1,4 @@
 bar: spam
 foo: hello world
 democonfigclient.message: hello from dev profile
+bonus: {cipher}1c59f8f5e02fc6f5a3f6a83f9387acbac7e3cdf8cfd407550d5cb4e87473dbcc
