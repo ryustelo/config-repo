@@ -1,3 +1,4 @@
 bar: spam
 foo: hello world
 democonfigclient.message: hello from dev profile
+bonus: This is a bonus to test
